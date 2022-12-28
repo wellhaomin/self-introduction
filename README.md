@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @well-haomin
-- 👀 I’m interested in Computer version and Robotics.
+- 👋 Hi, I’m Min
+- 👀 I’m interested in Computer Version and Robotics.
 - 🌱 I’m currently learning how to design personal website and python.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
